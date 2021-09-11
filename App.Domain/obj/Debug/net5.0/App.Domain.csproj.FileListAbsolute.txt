@@ -10,3 +10,15 @@ C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Domain\obj\Debug\net
 C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.dll
 C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\ref\App.Domain.dll
 C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.pdb
+C:\teste\aspnet_core_zerado\App.Domain\bin\Debug\net5.0\App.Domain.deps.json
+C:\teste\aspnet_core_zerado\App.Domain\bin\Debug\net5.0\App.Domain.dll
+C:\teste\aspnet_core_zerado\App.Domain\bin\Debug\net5.0\ref\App.Domain.dll
+C:\teste\aspnet_core_zerado\App.Domain\bin\Debug\net5.0\App.Domain.pdb
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.csproj.AssemblyReference.cache
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.AssemblyInfoInputs.cache
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.AssemblyInfo.cs
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.dll
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\ref\App.Domain.dll
+C:\teste\aspnet_core_zerado\App.Domain\obj\Debug\net5.0\App.Domain.pdb

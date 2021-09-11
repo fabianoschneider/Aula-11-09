@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace App.Domain.Interfaces.Application
 {
-    public interface IPessoaService
+    public interface ICidadeService
     {
-        Pessoa BuscaPorId(Guid id);
-        List<Pessoa> ListaPessoas();
-        void Salvar(Pessoa obj);
+        Cidade BuscaPorId(Guid id);
+        Cidade BuscaPorCEP(string cep);
+        List<Cidade> ListaCidades();
+        void Salvar(Cidade obj);
         void Deletar(Guid id);
     }
-
 }
+

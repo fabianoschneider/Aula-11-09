@@ -1,7 +1,6 @@
 ﻿using App.Domain.Entities;
 using App.Domain.Interfaces.Application;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,48 +10,53 @@ namespace App.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PessoaController : Controller
+    public class CidadeController : Controller
     {
-        private IPessoaService _service;
+        private ICidadeService _service;
 
-        public PessoaController(IPessoaService service)
+        public CidadeController(ICidadeService service)
         {
             _service = service;
         }
 
-        [HttpGet("ListaPessoas")]
+        [HttpGet("ListaCidades")]
 
-        public JsonResult ListaPessoas()
+        public JsonResult ListaCidades()
         {
-            return Json(_service.ListaPessoas());
+            return Json(_service.ListaCidades());
         }
 
         [HttpGet("BuscaPorId")]
 
         public JsonResult BuscaPorId(Guid id)
         {
-            return Json(_service.BuscaPorId(id)); 
+            return Json(_service.BuscaPorId(id));
+        }
+
+        [HttpGet("BuscaPorCEP")]
+
+        public JsonResult BuscaPorCEP(string cep)
+        {
+            return Json(_service.BuscaPorCEP(cep));
         }
         [HttpPost("Salvar")]
 
-        public JsonResult Salvar(String nome, int peso, DateTime dataNascimento, bool ativo, Guid cidadeId)
+        public JsonResult Salvar(String cep, String nome, String uf)
         {
-            var obj = new Pessoa
+            var obj = new Cidade
             {
+                Cep = cep,
                 Nome = nome,
-                DataNascimento = dataNascimento,
-                Peso = peso,
-                Ativo = ativo,
-                CidadeId = cidadeId
+                UF = uf
+
             };
             _service.Salvar(obj);
             return Json(true);
         }
-        
+
         [HttpDelete("Deletar")]
         public JsonResult Deletar(Guid id)
         {
-            
             _service.Deletar(id);
             return Json(true);
         }

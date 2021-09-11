@@ -10,3 +10,15 @@ C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Infrastructure\obj\D
 C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\ref\App.Infrastructure.dll
 C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.pdb
 C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.csprojAssemblyReference.cache
+C:\teste\aspnet_core_zerado\App.Infrastructure\bin\Debug\net5.0\App.Infrastructure.deps.json
+C:\teste\aspnet_core_zerado\App.Infrastructure\bin\Debug\net5.0\App.Infrastructure.dll
+C:\teste\aspnet_core_zerado\App.Infrastructure\bin\Debug\net5.0\ref\App.Infrastructure.dll
+C:\teste\aspnet_core_zerado\App.Infrastructure\bin\Debug\net5.0\App.Infrastructure.pdb
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.AssemblyInfo.cs
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.dll
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\ref\App.Infrastructure.dll
+C:\teste\aspnet_core_zerado\App.Infrastructure\obj\Debug\net5.0\App.Infrastructure.pdb
