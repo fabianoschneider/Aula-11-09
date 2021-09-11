@@ -18,10 +18,15 @@ namespace App.Application.Services
         }
        
 
-        public List<Pessoa> ListaPessoas()
+        public List<Pessoa> ListaPessoas(string nome, int pesoMaiorQue, int pesoMenorQue)
         {
-            return _repository.Query(x => 1 == 1)
-            .Select(p => new Pessoa
+            nome = nome ?? "";
+          
+            return _repository.Query(x =>
+            x.Nome.ToUpper().Contains(nome.ToUpper()) &&
+            (pesoMaiorQue == 0 || x.Peso >= pesoMaiorQue) &&
+            (pesoMenorQue == 0 || x.Peso <= pesoMenorQue)
+            ).Select(p => new Pessoa
             {
                 Id = p.Id,
                 Nome = p.Nome,
@@ -30,7 +35,7 @@ namespace App.Application.Services
                 {
                     Nome = p.Cidade.Nome
                 }
-            }).ToList();
+            }).OrderByDescending(x => x.Nome).ToList();
         }
         public void Salvar(Pessoa obj)
         {

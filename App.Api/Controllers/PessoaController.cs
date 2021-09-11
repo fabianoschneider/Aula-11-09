@@ -22,9 +22,10 @@ namespace App.Api.Controllers
 
         [HttpGet("ListaPessoas")]
 
-        public JsonResult ListaPessoas()
+        public JsonResult ListaPessoas(string nome, int pesoMaiorQue, int pesoMenorQue)
         {
-            return Json(_service.ListaPessoas());
+            
+            return Json(_service.ListaPessoas(nome,pesoMaiorQue,pesoMenorQue));
         }
 
         [HttpGet("BuscaPorId")]
