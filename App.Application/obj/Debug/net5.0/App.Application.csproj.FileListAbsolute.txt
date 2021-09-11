@@ -1,0 +1,15 @@
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\bin\Debug\net5.0\App.Application.deps.json
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\bin\Debug\net5.0\App.Application.dll
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\bin\Debug\net5.0\ref\App.Application.dll
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\bin\Debug\net5.0\App.Application.pdb
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.csprojAssemblyReference.cache
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.AssemblyInfo.cs
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.dll
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\ref\App.Application.dll
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.pdb
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\bin\Debug\net5.0\App.Domain.dll
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\bin\Debug\net5.0\App.Domain.pdb
+C:\Users\Maicol\Documents\Abase\Aula\aspnet_core_zerado\App.Application\obj\Debug\net5.0\App.Application.csproj.CopyComplete

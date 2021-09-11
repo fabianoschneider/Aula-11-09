@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyi+mXdLCnR/LIKqxd7YckIr871M/Iym7pKXjrDV3zbXY4ohfODyRJodLrOBRYtahXUy+31RLsbi/fsu8qo+Bg==",
+  "success": true,
+  "projectFilePath": "C:\\teste\\aspnet_core_zerado\\App.Infrastructure\\App.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabiano.schneider\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
